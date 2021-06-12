@@ -3,6 +3,8 @@
 #include <conio.h>
 #include<vector>
 
+//LoanPersonInfoDB::getpw(int idx, int pw)함수 코드 작성 : 조원 이지윤
+
 class LoanPersonInfoDB {
 private:
 	vector <LoanPersonInfo> Info;
