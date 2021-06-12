@@ -5,6 +5,8 @@
 #include "AccountDB.h"
 #include <string>
 
+//LoanPersonInfo::checkPassWord(int pw)함수 코드 작성 : 조원 이지윤
+
 class LoanPersonInfo{
 private:
 	int accID;
