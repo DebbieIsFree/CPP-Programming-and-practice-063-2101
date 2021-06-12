@@ -1,6 +1,9 @@
 #include "saving.h"
 #include "loan.h"
 
+// void Bank::client()함수 작성(예외처리) : 조원 전창우
+// void Bank::BankManager()함수 작성(예외처리) : 조원 전창우
+
 class Bank {
 private:
 	AccountDB ADB;
